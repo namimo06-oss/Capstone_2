@@ -35,7 +35,7 @@ Using Python, Pandas, and Matplotlib, this project explores sales data to identi
 Natalia Monroy  
 Year Up United – Data Analyst Training Academy
 
-CAPSTONE 2 VIDEO:
+# CAPSTONE 2 VIDEO:
 https://drive.google.com/file/d/1O_KQCJ02G4MNYdDWD67-3yQfyzu0dR_u/view
 Note: Sorry, video is about 20mins long. Recommend to watch it on x2 speed.Thank you!
 
