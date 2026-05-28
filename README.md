@@ -36,6 +36,5 @@ Natalia Monroy
 Year Up United – Data Analyst Training Academy
 
 # CAPSTONE 2 VIDEO:
-https://drive.google.com/file/d/1O_KQCJ02G4MNYdDWD67-3yQfyzu0dR_u/view
-Note: Sorry, video is about 20mins long. Recommend to watch it on x2 speed.Thank you!
-
+https://drive.google.com/file/d/1fZeqorZyWp7UX3Mx0-ASxH9kPTttGfaB/view
+https://drive.google.com/file/d/1fZeqorZyWp7UX3Mx0-ASxH9kPTttGfaB/view?usp=drive_link
